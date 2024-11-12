@@ -2,7 +2,7 @@
 
 A tool to dump a git repository from a website.
 
-## Install
+## Install 
 
 This can be installed easily with pip:
 ```
